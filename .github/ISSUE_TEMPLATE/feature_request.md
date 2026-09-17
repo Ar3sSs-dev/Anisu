@@ -1,6 +1,6 @@
 ---
 name: 💡 Предложение фичи (Feature Request)
-about: Предложить новую идею или улучшение для re:AniDesk
+about: Предложить новую идею или улучшение для Anisu β
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
