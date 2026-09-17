@@ -1,6 +1,9 @@
 # Anisu β (Custom Build)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+[![Release](https://img.shields.io/github/v/release/Ar3sSs-dev/Anisu?color=7289da&label=Release)](https://github.com/Ar3sSs-dev/Anisu/releases)
+[![Downloads](https://img.shields.io/github/downloads/Ar3sSs-dev/Anisu/total?color=success&logo=github)](https://github.com/Ar3sSs-dev/Anisu/releases)
+![Tests](https://img.shields.io/badge/Vitest-56%2F56%20Passed-brightgreen?logo=vitest)
 ![License](https://img.shields.io/badge/license-GPLv2-blue.svg)
 ![Electron](https://img.shields.io/badge/Electron-Desktop%20App-47848F?logo=electron&logoColor=white)
 ![Svelte5](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white)
